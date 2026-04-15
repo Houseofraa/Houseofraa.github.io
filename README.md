@@ -1,8 +1,6 @@
 # Houseofraa.github.io
 Hair Accessories & Resin Products Website
 
-Here's a complete, beautiful website for your business:
-
 html<button><svg><path></path></svg><span>Copy code</span><span></span></button>
 <!DOCTYPE html>
 <html lang="en">
